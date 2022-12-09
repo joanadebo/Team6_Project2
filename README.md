@@ -1,6 +1,6 @@
-#Medaling in the Olympics
-#Team 6
-##Team Do We Have To presents their project 2 focused on the outcomes for the Olympics over the past 120 years.
+# Medaling in the Olympics
+Team 6
+Team Do We Have To presents their project 2 focused on the outcomes for the Olympics over the past 120 years.
 
 Every four years we rally with our compatriots to support our proud nations as they showcase their skills on the international mantle during the Olympic games. The Games were initially held in the Peloponnese of ancient Greece about 3,000 years ago. Olympia staged sporting competitions every four years. After Pierre de Coubertin's idea to revive the Olympic Games was announced in 1894, the first Games of the modern era were staged in 1896. In 1900, women took part in competition for the first time in Paris. 22 female competitors out of a total of 997 took part in five sports: tennis, sailing, croquet, equestrian, and golf.
 
