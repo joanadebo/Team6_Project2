@@ -11,7 +11,7 @@ Every four years we rally with our compatriots to support our proud nations as t
 
 Here we will be analyzing olympic outcomes and merging datasets from the summer and winter olympic games according to country and competitors. ETL (Extract, Transform, and Load) is used to read data from multiple sources, clean and reorganize the data’s structure, and storing it into a database. 
 
-## Methodlogy
+## Methodology
 By creating a database in pgAdmin 4, and then create the following three tables within the database:
 
 ● An event table that contains the columns id, sport, discipline, name. 
