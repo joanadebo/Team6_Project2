@@ -1,7 +1,7 @@
-# Medaling in the Olympics
+#                                    Medaling in the Olympics
 
 ![image](https://user-images.githubusercontent.com/95774386/210462561-d3c9c87b-8c0d-4008-bc8d-0f807db2922f.png)
-#### Team "Do We Have To?" presents their project 2 focused on the outcomes for the Olympics over the past 120 years.
+##### Team "Do We Have To?" presents their project 2 focused on the outcomes for the Olympics over the past 120 years.
 
 ## Background
 
@@ -23,8 +23,11 @@ By creating a database in pgAdmin 4, and then create the following three tables 
 
 Making sure we identify and assign primary keys as event_id and ioc_code to be able to link the tables, as Pandas will not be able to do so. In Jupyter Notebook, we performed all ETL steps.
 
-### Extraction: Puting each CSV (i.e. summer olympics, winter olympics, athlete event, and IOC Country Codes) into a Pandas DataFrame.
+### Extraction: 
+Puting each CSV (i.e. summer olympics, winter olympics, athlete event, and IOC Country Codes) into a Pandas DataFrame.
 
-### Transformation: Essential columns that were needed to communicate our findings we exported into a new DataFrame. Necessary columns were renamed to fit the tables created in the database. Duplicates were then removed and the index was set to the previously created primary key. Connections were made to the databases and its connection success to the database was confirmed by seeing if tables have been created.
+### Transformation:
+Essential columns that were needed to communicate our findings we exported into a new DataFrame. Necessary columns were renamed to fit the tables created in the database. Duplicates were then removed and the index was set to the previously created primary key. Connections were made to the databases and its connection success to the database was confirmed by seeing if tables have been created.
 
-### Loading: Once this was done, we confirmed that we performed a successful load by querying the database once we had joined the tables, with our preferred selected ids from the tables on sport, discipline, and event columns.
+### Loading: 
+Once this was done, we confirmed that we performed a successful load by querying the database once we had joined the tables, with our preferred selected ids from the tables on sport, discipline, and event columns.
