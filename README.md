@@ -14,11 +14,11 @@ Here we will be analyzing olympic outcomes and merging datasets from the summer 
 ## Methodology
 By creating a database in pgAdmin 4, and then create the following three tables within the database:
 
-● An event table that contains the columns id, sport, discipline, name. 
+● An event table that contains the columns |id|sport|discipline|name| 
 
-● An olympic_event table that contains the columns id, city, season, year, event_id, athlete_name, athlete_country_name, country_ioc, medal.
+● An olympic_event table that contains the columns |id|city|season|year|event_id|athlete_name|athlete_country_name|country_ioc|medal|
 
-● A country table that contains the columns ioc_code, iso_code, and name.
+● A country table that contains the columns |ioc_code| iso_code|name|
 
 
 Making sure we identify and assign primary keys as event_id and ioc_code to be able to link the tables, as Pandas will not be able to do so. In Jupyter Notebook, we performed all ETL steps.
