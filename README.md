@@ -1,7 +1,7 @@
 #                                    Medaling in the Olympics
 
 ![image](https://user-images.githubusercontent.com/95774386/210462561-d3c9c87b-8c0d-4008-bc8d-0f807db2922f.png)
-##### Team "Do We Have To?" depicts the outcomes for the Olympics over the past 120 years.
+##### _Team "Do We Have To?" depicts the outcomes for the Olympics over the past 120 years._
 
 ## Background
 
